@@ -1,4 +1,7 @@
 ### Hi there 👋
+- ⚡ Fun fact: I never had meat before
+- 🔭 I’m currently working on creating my own website 
+
 
 <!--
 **dave2030/dave2030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
