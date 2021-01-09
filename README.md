@@ -1,6 +1,11 @@
 ### Hello there 👋
+### About me :smile:
 - ⚡ Fun fact: I never had meat before
-- 🔭 I’m currently working on expanding my web development skills and learning new technologies
+- :mortar_board: I am in my third year studying Business Administration and Computer Science at Wilfrid Laurier University
+- 🔭 I’m currently working on expanding my web dev and programming skills through exploring different languages
+
+
+### Contact Info 🙌
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shyam-dave-7606b5164/)
 &nbsp;
@@ -11,6 +16,7 @@
 
 :earth_americas: Markham, ON
 
+### Languages I have explored 💻
 
 
  
