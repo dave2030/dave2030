@@ -17,10 +17,21 @@
 :earth_americas: Markham, ON
 
 ### Languages I have explored 💻
+![Alt Text](https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_64x64.png?raw=true)
+![Alt Text](https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_64x64.png?raw=true)
+![Alt Text](https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_64x64.png?raw=true)
+![Alt Text](https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_64x64.png?raw=true)
+![Alt Text](https://github.com/abranhe/programming-languages-logos/blob/master/src/r/r_64x64.png?raw=true)
+![Alt Text](https://github.com/abranhe/programming-languages-logos/blob/master/src/typescript/typescript_64x64.png?raw=true)
+![Alt Text](https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_64x64.png?raw=true)
 
 
- 
-![Alt Text](https://media.giphy.com/media/lTQF0ODLLjhza/giphy.gif)             
+### Thank you for visiting my profile :sunglasses:
+
+![Alt Text](https://media.giphy.com/media/lTQF0ODLLjhza/giphy.gif) 
+![Alt Text](https://media0.giphy.com/media/3o7abB06u9bNzA8lu8/200.gif)
+![Alt Text](https://thumbs.gfycat.com/AdorableLeftIcelandgull-max-1mb.gif)
+
 
 <!--
 **dave2030/dave2030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
