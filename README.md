@@ -1,6 +1,11 @@
 ### Hi there 👋
 - ⚡ Fun fact: I never had meat before
-- 🔭 I’m currently working on creating my own website 
+- 🔭 I’m currently working on expanding my web development skills and learning new technologies
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shyam-dave-7606b5164/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/dave2030)
+    
 
 
 <!--
