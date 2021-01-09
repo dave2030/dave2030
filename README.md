@@ -5,8 +5,6 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shyam-dave-7606b5164/)
 &nbsp;
 
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/dave2030)
-
 :email: dave2030@mylaurier.ca
 
 :telephone_receiver: 647-909-5961 
