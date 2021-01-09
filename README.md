@@ -12,8 +12,6 @@
 
 :email: dave2030@mylaurier.ca
 
-:telephone_receiver: 647-909-5961 
-
 :earth_americas: Markham, ON
 
 ### Languages I have explored 💻
