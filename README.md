@@ -27,8 +27,7 @@
 ### Thank you for visiting my profile :sunglasses:
 
 ![Alt Text](https://media.giphy.com/media/lTQF0ODLLjhza/giphy.gif) 
-![Alt Text](https://media0.giphy.com/media/3o7abB06u9bNzA8lu8/200.gif)
-![Alt Text](https://thumbs.gfycat.com/AdorableLeftIcelandgull-max-1mb.gif)
+
 
 
 <!--
