@@ -26,7 +26,6 @@
 
 ### Thank you for visiting my profile :sunglasses:
 
-![Alt Text](https://media.giphy.com/media/lTQF0ODLLjhza/giphy.gif) 
 
 
 
