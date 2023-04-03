@@ -1,7 +1,7 @@
 ### Hello there 👋
 ### About me :smile:
 - ⚡ Fun fact: I never had meat before
-- :mortar_board: I am in my fourth year studying Business Administration and Computer Science at Wilfrid Laurier University
+- :mortar_board: I am a Business Administration and Computer Science graduate from Wilfrid Laurier University
 - 🔭 I’m currently working on expanding my web dev and programming skills through exploring different languages
 
 
