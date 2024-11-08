@@ -1,18 +1,12 @@
 ### Hello there 👋
 ### About me :smile:
 - ⚡ Fun fact: I never had meat before
-- :mortar_board: I am a Business Administration and Computer Science graduate from Wilfrid Laurier University
 - 🔭 I’m currently working on expanding my web dev and programming skills through exploring different languages
 
 
 ### Contact Info 🙌
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shyam-dave-7606b5164/)
-&nbsp;
-
-:email: dave2030@mylaurier.ca
-
-:earth_americas: Markham, ON
+:earth_americas: Toronto, ON
 
 ### Languages I have explored 💻
 ![Alt Text](https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_64x64.png?raw=true)
